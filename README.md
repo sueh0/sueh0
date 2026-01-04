@@ -1,16 +1,50 @@
-## Hi there 👋
-
-<!--
-**sueh0/sueh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                             ...----....
+                         ..-:"''         ''"-..
+                      .-'                      '-.
+                    .'              .     .       '.
+                  .'   .          .    .      .    .''.
+                .'  .    .       .   .   .     .   . ..:.
+              .' .   . .  .       .   .   ..  .   . ....::.
+             ..   .   .      .  .    .     .  ..  . ....:IA.
+            .:  .   .    .    .  .  .    .. .  .. .. ....:IA.
+           .: .   .   ..   .    .     . . .. . ... ....:.:VHA.
+           '..  .  .. .   .       .  . .. . .. . .....:.::IHHB.
+          .:. .  . .  . .   .  .  . . . ...:.:... .......:HIHMM.
+         .:.... .   . ."::"'.. .   .  . .:.:.:II;,. .. ..:IHIMMA
+         ':.:..  ..::IHHHHHI::. . .  ...:.::::.,,,. . ....VIMMHM
+        .:::I. .AHHHHHHHHHHAI::. .:...,:IIHHHHHHMMMHHL:. . VMMMM
+       .:.:V.:IVHHHHHHHMHMHHH::..:" .:HIHHHHHHHHHHHHHMHHA. .VMMM.
+       :..V.:IVHHHHHMMHHHHHHHB... . .:VPHHMHHHMMHHHHHHHHHAI.:VMMI
+       ::V..:VIHHHHHHMMMHHHHHH. .   .I":IIMHHMMHHHHHHHHHHHAPI:WMM
+       ::". .:.HHHHHHHHMMHHHHHI.  . .:..I:MHMMHHHHHHHHHMHV:':H:WM
+       :: . :.::IIHHHHHHMMHHHHV  .ABA.:.:IMHMHMMMHMHHHHV:'. .IHWW
+       '.  ..:..:.:IHHHHHMMHV" .AVMHMA.:.'VHMMMMHHHHHV:' .  :IHWV
+        :.  .:...:".:.:TPP"   .AVMMHMMA.:. "VMMHHHP.:... .. :IVAI
+       .:.   '... .:"'   .   ..HMMMHMMMA::. ."VHHI:::....  .:IHW'
+       ...  .  . ..:IIPPIH: ..HMMMI.MMMV:I:.  .:ILLH:.. ...:I:IM
+     : .   .'"' .:.V". .. .  :HMMM:IMMMI::I. ..:HHIIPPHI::'.P:HM.
+     :.  .  .  .. ..:.. .    :AMMM IMMMM..:...:IV":T::I::.".:IHIMA
+     'V:.. .. . .. .  .  .   'VMMV..VMMV :....:V:.:..:....::IHHHMH
+       "IHH:.II:.. .:. .  . . . " :HB"" . . ..PI:.::.:::..:IHHMMV"
+        :IP""HHII:.  .  .    . . .'V:. . . ..:IH:.:.::IHIHHMMMMM"
+        :V:. VIMA:I..  .     .  . .. . .  .:.I:I:..:IHHHHMMHHMMM
+        :"VI:.VWMA::. .:      .   .. .:. ..:.I::.:IVHHHMMMHMMMMI
+        :."VIIHHMMA:.  .   .   .:  .:.. . .:.II:I:AMMMMMMHMMMMMI
+        :..VIHIHMMMI...::.,:.,:!"I:!"I!"I!"V:AI:VAMMMMMMHMMMMMM'
+        ':.:HIHIMHHA:"!!"I.:AXXXVVXXXXXXXA:."HPHIMMMMHHMHMMMMMV
+          V:H:I:MA:W'I :AXXXIXII:IIIISSSSSSXXA.I.VMMMHMHMMMMMM
+            'I::IVA ASSSSXSSSSBBSBMBSSSSSSBBMMMBS.VVMMHIMM'"'
+             I:: VPAIMSSSSSSSSSBSSSMMBSSSBBMMMMXXI:MMHIMMI
+            .I::. "H:XIIXBBMMMMMMMMMMMMMMMMMBXIXXMMPHIIMM'
+            :::I.  ':XSSXXIIIIXSSBMBSSXXXIIIXXSMMAMI:.IMM
+            :::I:.  .VSSSSSISISISSSBII:ISSSSBMMB:MI:..:MM
+            ::.I:.  ':"SSSSSSSISISSXIIXSSSSBMMB:AHI:..MMM.
+            ::.I:. . ..:"BBSSSSSSSSSSSSBBBMMMB:AHHI::.HMMI
+            :..::.  . ..::":BBBBBSSBBBMMMB:MMMMHHII::IHHMI
+            ':.I:... ....:IHHHHHMMMMMMMMMMMMMMMHHIIIIHMMV"
+              "V:. ..:...:.IHHHMMMMMMMMMMMMMMMMHHHMHHMHP'
+               ':. .:::.:.::III::IHHHHMMMMMHMHMMHHHHM"
+                 "::....::.:::..:..::IIIIIHHHHMMMHHMV"
+                   "::.::.. .. .  ...:::IIHHMMMMHMV"
+                     "V::... . .I::IHHMMV"'
+                       '"VHVHHHAHHHHMMV:"'
