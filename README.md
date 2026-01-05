@@ -1,1 +1,2 @@
-![2003084336267166005_1](https://github.com/user-attachments/assets/0dbe83cd-a15e-40b3-a7f8-fcf3516d41b0)
+
+<img width="500" height="500" alt="1001175986-removebg-preview" src="https://github.com/user-attachments/assets/55c284a8-b8d2-4783-b1a6-18da5da4b9e3" />
