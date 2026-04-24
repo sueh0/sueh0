@@ -1,48 +1,32 @@
-# Olá, eu sou o [Seu Nome]! 👋
+👋 Olá, eu sou Matheus
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Criando+soluções+modernas;Focado+em+segurança+e+inovação;Transformando+ideias+em+realidade" /> </p>
+🚀 Sobre mim
 
-### 👨‍💻 Desenvolvedor [Sua Especialidade: ex: Full Stack / Front-end / Mobile]
+💻 Desenvolvedor apaixonado por tecnologia
+🧠 Focado em sistemas modernos, seguros e eficientes
+⚡ Sempre aprendendo e evoluindo
+🎯 Objetivo: construir soluções que gerem impacto real
 
-Estou sempre em busca de novos desafios e apaixonado por construir soluções que facilitem a vida das pessoas através do código. Atualmente focado em aprimorar minhas habilidades em **[Sua Tecnologia Principal]**.
+🛠️ Tecnologias
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" /> </div>
+📊 Estatísticas
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true"/> <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight"/> </div>
+📌 Projetos em destaque
 
----
+🚧 Em construção... (adicione seus melhores projetos aqui)
 
-### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em **[Projeto Atual]**
-- 🌱 Aprendendo no momento: **[Tecnologia que está estudando]**
-- 💬 Pergunte-me sobre: **[Assuntos que você domina]**
-- 📫 Como me encontrar: **[Seu Email ou LinkedIn]**
-- ⚡ Curiosidade: **[Algo engraçado ou hobby, ex: "Faço o melhor café da região"]**
+🌐 Contato
+<div align="center"> <a href="https://github.com/SEU-USUARIO"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:seu-email@email.com"> <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+⚡ Frase
 
----
+"Código limpo não é só estética — é responsabilidade."
 
-### 🛠 Tecnologias e Ferramentas
+🧩 Extra (efeito de contribuição animado)
+<p align="center"> <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg"> </p>
+📌 Como usar
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=vision-friendly-dark)
+Só trocar:
 
-**Front-end:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Back-end:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Ferramentas:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USUARIO]&theme=vision-friendly-dark"/>
-</p>
-
----
-
-### 🤝 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK-DO-SEU-LINKEDIN])
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([LINK-DO-SEU-INSTAGRAM])
-[![Seu Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([LINK-DO-SEU-SITE])
+SEU-USUARIO pelo seu username do GitHub
+adicionar seus projetos reais
+colocar seu email
